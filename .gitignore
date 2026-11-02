@@ -1,0 +1,18 @@
+app/
+env/
+logs/
+output/
+voices/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Downloaded model weights and Gradio's uploaded-file cache (gigabytes, and
+# whatever books a user has dropped in). Never commit this.
+cache/
+
+# Throwaway scripts and data from local testing.
+audiobook/_*
+
+# Per-machine agent permissions.
+.claude/settings.local.json

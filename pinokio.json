@@ -1,0 +1,5 @@
+{
+  "title": "OmniVoice",
+  "description": "Zero-shot multilingual text-to-speech covering 600+ languages, with voice cloning from a short reference clip and voice design from attribute descriptions.",
+  "icon": "icon.png"
+}
